@@ -81,7 +81,7 @@ vhost:
   # to prepend and/or append additional name strings.
   name:
     prefix:
-    suffix: __TLD__
+    suffix:
   # The document root directory is specified as an command line argument
   # to vhost_gen.py via '-p', however it is possible
   # to prepend another subdirectory here.
